@@ -1,0 +1,13 @@
+*Esse módulo funciona normalmente com:
+
+- Hospedagem Linux
+- WHMCS: v7.0+
+- Iconcube: v10.2
+- PHP: 7.0+
+- PDO
+- Mysqli
+
+
+
+
+
